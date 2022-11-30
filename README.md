@@ -1,5 +1,5 @@
 # vuci-app-overview
-System, SystemLog, NetworkLog, Interfaces cards displaying with drag and drop
+Displaying various information in the cards about the router
 
 
 https://user-images.githubusercontent.com/75335966/204778469-8251e4b1-2131-42b9-95e1-4f2b295e2739.mov
